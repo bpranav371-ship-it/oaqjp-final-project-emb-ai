@@ -1,0 +1,8 @@
+PS C:\Users\Prana\Downloads\corsera_08> python
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from EmotionDetection.emotion_detection import emotion_detector
+>>> emotion_detector("I am so happy I am doing this.")
+{'anger': 0.0069, 'disgust': 0.0017, 'fear': 0.0036, 'joy': 0.9772, 'sadness': 0.0146, 'dominant_emotion': 'joy'}
+>>> exit()
+PS C:\Users\Prana\Downloads\corsera_08>

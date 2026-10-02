@@ -1,0 +1,28 @@
+PS C:\Users\Prana\Downloads\corsera_08\oaqjp-final-project-emb-ai> dir test_emotion_detection.py
+
+
+    Directory: C:\Users\Prana\Downloads\corsera_08\oaqjp-final-project-emb-ai
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        10/2/2026  10:45 AM           2145 test_emotion_detection.py
+
+
+PS C:\Users\Prana\Downloads\corsera_08\oaqjp-final-project-emb-ai> dir EmotionDetection
+
+
+    Directory: C:\Users\Prana\Downloads\corsera_08\oaqjp-final-project-emb-ai\EmotionDetection
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        10/2/2026  10:40 AM           3862 emotion_detection.py
+
+
+PS C:\Users\Prana\Downloads\corsera_08\oaqjp-final-project-emb-ai> python test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 2.314s
+
+OK
